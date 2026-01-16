@@ -1,137 +1,97 @@
-Gold (GOLD) Token — Whitepaper
+Blockchain https://etherscan.io/token/0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
 
-Tagline: The Standard in Blockchain Transparency
+Logo Website thewhitebank.com : https://raw.githubusercontent.com/thewhitebank/gold/main/Gold.png
+
+A transparent, secure blockchain token with a fixed supply of 999,999,999 GOLD, designed to provide verifiable smart contracts and full on-chain transparency.
+
+🌟 Overview Gold is a blockchain project built on Ethereum-compatible networks, featuring a fixed token supply and fully verified smart contracts. The project emphasizes transparency, security, and independent verification through multiple blockchain explorers and verification platforms.
+
+📊 Token Details Token Name: Gold
+
+Token Symbol: GOLD
+
+Total Supply: 999,999,999 (fixed, non-inflationary)
 
 Contract Address: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
-Official Website: https://thewhitebank.com
 
-Official Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
+Network: Ethereum Mainnet (Chain ID: 1)
 
-Logo:
+🔍 Verification & Transparency Gold's smart contracts are verified across multiple platforms to ensure maximum transparency:
 
-1. Introduction
+RouteScan - Smart Contract Verification URL: View on RouteScan Purpose: Full smart contract verification with on-chain activity monitoring
 
-Gold (GOLD) is a blockchain-based digital asset designed with transparency, security, and on-chain verification as core principles. With a fixed supply and fully verified smart contracts, GOLD empowers users, developers, and auditors to independently verify every aspect of its on-chain behavior.
+Features: Code review, function calls, events, and contract interactions
 
-GOLD sets a benchmark for transparency, demonstrating best practices in secure and verifiable token deployment.
+Blockscout - Token Analytics & Supply Verification URL: View on Blockscout Purpose: Real-time token analytics and supply verification
 
-2. Overview
+Features: Holder tracking, transfer history, token distribution, and contract interactions
 
-Blockchain: Ethereum-Compatible Networks
+Sourcify - Source Code Verification URL: View on Sourcify Purpose: Source code verification ensuring on-chain bytecode matches published source
 
-Token Supply: 999,999,999 GOLD (fixed, non-inflationary)
+Features: Full source code auditability, reproduction verification, and developer transparency
 
-Verified Smart Contracts: Fully verified across multiple platforms
+🛡️ Security Features Fully Verified Contracts: All smart contracts are verified on multiple platforms
 
-Transparency: All contract interactions are publicly accessible
+Fixed Supply: No additional minting possible after deployment
 
-GOLD ensures all operations are verifiable, auditable, and immutable, making it the standard in blockchain transparency.
+Transparent Operations: All contract interactions are publicly visible on-chain
 
-3. Token Details
-Feature	Specification
-Token Name	Gold
-Token Symbol	GOLD
-Total Supply	999,999,999 (fixed, non-inflationary)
-Network	Ethereum Mainnet (Chain ID: 1)
-Token Standard	ERC-20
-Contract Address	0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
-Official Website	https://thewhitebank.com
+Independent Auditing: Code can be independently verified by anyone
 
-Official Email	0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
-4. Verification & Transparency
+🌐 Official Website The official Gold project website is now hosted at:
 
-Gold's smart contracts are verified across multiple platforms to guarantee maximum transparency:
+https://thewhitebank.com/
 
-4.1 RouteScan
+Website Features: Official project information and updates
 
-Purpose: Full smart contract verification with on-chain activity monitoring
+Direct links to all verification platforms
 
-Features: Code review, function calls, events, and interactions
+Token contract details and supply information
 
-Link: View on RouteScan
+Transparent smart contract verification
 
-4.2 Blockscout
+Clean, professional interface
 
-Purpose: Real-time token analytics and supply verification
+📱 Previous Website The previous project website was available at:
 
-Features: Holder tracking, transfer history, token distribution
+https://thewhitebank.github.io/gold/ (now redirects to thewhitebank.com)
 
-Link: View on Blockscout
+🚀 Getting Started For Users: Visit the official website to learn about the project
 
-4.3 Sourcify
+Use the verification links to independently verify contract details
 
-Purpose: Source code verification ensuring deployed bytecode matches published source
+Check token supply and distribution on Blockscout
 
-Features: Full source code auditability and independent verification
+Review the source code on Sourcify for full transparency
 
-Link: View on Sourcify
+For Developers: Clone this repository:
 
-These platforms allow independent auditing of GOLD contracts by anyone.
+bash git clone https://github.com/thewhitebank/gold.git Explore the smart contract verification links
 
-5. Security Features
+Review the source code on Sourcify
 
-Immutable Contracts: No additional minting possible after deployment
+Monitor on-chain activity via RouteScan and Blockscout
 
-Open-Source Verification: Fully auditable code
+🌐 Links Official Website: https://thewhitebank.com/
 
-Transparent Operations: All interactions visible on-chain
+GitHub Repository: https://github.com/thewhitebank/gold
 
-Independent Auditing: Anyone can verify contract behavior
+RouteScan Verification: View Smart Contract
 
-6. Use Cases
+Blockscout Analytics: View Token Details
 
-Benchmark Token: Demonstrates best practices in blockchain transparency
+Sourcify Verification: View Source Code
 
-Educational Tool: For developers and auditors to study secure contract deployment
+📄 License © 2026 Gold. All rights reserved.
 
-Community Experiments: Safe token for testing transparent blockchain systems
+🤝 Contributing This project is focused on transparency and verification. While the core contracts are immutable, feedback and suggestions for documentation and website improvements are welcome through GitHub Issues.
 
-7. Ecosystem & Community
+⚠️ Disclaimer This project is a blockchain token experiment focused on transparency and verifiability. Users should conduct their own research and due diligence before engaging with any blockchain assets.
 
-Official Media:
+Gold - The Standard in Blockchain Transparency
 
-GitHub: https://github.com/thewhitebank
+Gold Contract Token 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
 
-Medium: https://medium.com/@thewhitebank
+Official Website Official Website: https://thewhitebank.com/ Official Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
 
-X (Twitter): https://x.com/thewhitebank1
-
-Official Website: https://thewhitebank.com
-
-Official Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
-
-8. Roadmap (Illustrative)
-Quarter	Milestone
-Q1 2026	Whitepaper release and website launch
-Q2 2026	Public verification tools and dashboards
-Q3 2026	Third-party audits and tooling improvements
-Q4 2026	Expanded analytics integration for transparency
-
-Visual timeline graphics can be added when exporting to PDF for better readability.
-
-9. Getting Started
-
-For Users:
-
-Visit thewhitebank.com
-
-Verify contract details on RouteScan, Blockscout, and Sourcify
-
-Check token supply and distribution
-
-For Developers:
-
-Clone repository:
-
-git clone https://github.com/thewhitebank/gold.git
-
-
-Explore smart contracts
-
-Monitor on-chain activity via verification platforms
-
-10. License & Disclaimer
-
-© 2026 Gold. All rights reserved.
-
-Gold is a blockchain token experiment focused on transparency and verifiability. Users must conduct their own research and due diligence before engaging with any blockchain assets. GOLD is not a financial product or investment instrument.
+Official Media GitHub: https://github.com/thewhitebank Medium: https://medium.com/@thewhitebank X: https://x.com/thewhitebank1
