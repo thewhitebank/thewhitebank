@@ -1,4 +1,6 @@
-Gold Blockchain https://raw.githubusercontent.com/thewhitebank/gold/main/Gold.png
+Gold Blockchain 
+
+Logo Website thewhitebank.com : https://raw.githubusercontent.com/thewhitebank/gold/main/Gold.png
 
 A transparent, secure blockchain token with a fixed supply of 999,999,999 GOLD, designed to provide verifiable smart contracts and full on-chain transparency.
 
