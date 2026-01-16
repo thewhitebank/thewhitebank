@@ -91,5 +91,13 @@ Sourcify Verification: View Source Code
 
 Gold - The Standard in Blockchain Transparency
 
+Gold Contract Token 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
+
+Official Website
 Official Website: https://thewhitebank.com/
 Official Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
+
+Official Media
+GitHub: https://github.com/thewhitebank
+Medium: https://medium.com/@thewhitebank
+X: https://x.com/thewhitebank1
