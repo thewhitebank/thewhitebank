@@ -1,4 +1,5 @@
 Gold Blockchain 
+https://etherscan.io/token/0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
 
 Logo Website thewhitebank.com : https://raw.githubusercontent.com/thewhitebank/gold/main/Gold.png
 
