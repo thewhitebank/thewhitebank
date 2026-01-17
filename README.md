@@ -2,13 +2,15 @@ The White Bank — Gold Token (GOLD) Whitepaper
 
 Website: https://thewhitebank.com
 
+Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
+
 GitHub: https://github.com/thewhitebank
 
 Medium: https://medium.com/@thewhitebank
 
 X: https://x.com/thewhitebank1
 
-Contact: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
+Gold (GLOD) Contact: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
 
 1. Executive Summary
 
