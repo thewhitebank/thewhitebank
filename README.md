@@ -87,7 +87,7 @@ Verified smart contract addresses
 
 Links to verification platforms (RouteScan, Blockscout, Sourcify)
 
-Contact information: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
+Contact information: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8
 
 GitHub allows community inspection, code auditing, and independent verification, reinforcing the project’s transparency.
 
@@ -159,7 +159,7 @@ Medium Blog: https://medium.com/@thewhitebank
 
 X (Twitter) Profile: https://x.com/thewhitebank1
 
-Contact Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
+Email: 0x51b86eaF8f916757b35006Fa4056B1449B4f49e8@thewhitebank.com
 
 Verification Platforms:
 
